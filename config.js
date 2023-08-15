@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['60145788666']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['60145788666']  // -- Add multiple numbers like  ['918101967835','','917896587453']
-global.ownertag = ['60145788666']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['919357940276']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['919357940276']  // -- Add multiple numbers like  ['918101967835','','917896587453']
+global.ownertag = ['919357940276']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "Six"
 global.packname = "Six bot"
 global.author = "By: Six2nite"
